@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.maindiv{
+    width: 1170px;
+    margin-left:10%;
+}
+.icon-main{
+    float:left;
+}
+.icon-main img{
+     width:60px;
+ }
+ .logo{
+    float:left;
+ }
+ .logo img {
+     width:150px;
+    height:70px;
+    margin-left: 274px;
+ }
+ .menu{
+     float:left;
+     margin-left:134px;
+ }           
+ .menu ul{
+     list-style-type:none;
+     border:2px solid red;
+     display:block;
+     float:left;
+     width: 420px;
+     padding:0px;
+ }
+ .menu ul li {
+     float:left; 
+     border-left:1px solid red;
+     border-right:1px solid red;
+     padding:5px 20px;
+     background-color: #1C2833;
+     
+ }
+ .menu ul li:hover{
+     background-color: #F0F3F4;
+    
+
+ }
+ .menu ul li a{
+     text-decoration:none;
+     color:#F7DC6F;
+     padding:5px 20px;
+     
+ }
+ .menu ul li a:hover{
+    color:#1B2731;
+     
+ }
+ .heading{
+     width:1170px;
+     min-height:500px;
+     background-image:url("image/black.jpg");
+     background-size:cover;
+     float:left;
+     margin-top:10px;
+     box-shadow: 4px 7px 50px 0px #ccc;
+ }
+ .heading h1{
+     text-align: center;
+     color:#fff;
+     font-size: 60px;
+     margin-top:100px;
+     font-family: 'Roboto', sans-serif;
+ }
+ .heading h1 .web{
+     color:#850C1F;
+ }
+ .heading a{
+    
+     text-decoration: none;
+     color:wheat;
+     
+}
+.heading .btn img{
+    margin-left: 40px;
+    width: 19px;
+    height: 22px;
+}
+.heading .btn{
+    width: 100px;
+    height: 36px;
+    background-color:#850C1F;
+    margin-left: 525px;
+    padding: 8px 8px 8px 8px;
+    border-radius: 5px;
+    border:1px solid #fff;
+    transition:border .3s ease;
+   
+}
+.heading .btn a{
+    font-size:18px;
+    color:#fff;
+    margin-left: 7px;
+    font-family: 'Roboto', sans-serif;
+    transition:color .3s ease;
+}
+.heading .btn:hover{
+    
+    border:1px solid #F1C40F;
+    background-color: #850C1F;
+    padding: 8px 8px 8px 8px;
+   
+}
+.heading .btn:hover a{
+    color:#F1C40F;
+}
+.ser{
+    width:1170px;
+    float:left;
+    margin-top:10px;
+}
+.ser h1{
+    font-size:50px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+   
+}
+.ser .colum{
+    width: 29%;
+    float: left;
+    min-height: 442.4px;
+    margin-left: 10px;
+    border-radius: 17px;
+    padding: 20px;
+    box-shadow: 2px 6px 20px 6px #D10;
+ 
+}
+.ser .colum:hover {
+ 
+    box-shadow: 0px 1px 8px 1px #D10;
+}
+.ser .colum img{
+    margin:0 115px;
+}
+.ser .colum h3{
+     font-size:20px;
+     text-align:center;
+     font-family: 'Roboto', sans-serif;
+    
+}
+
+.ser .colum p{
+    text-align:justify;
+    font-family: 'Roboto', sans-serif;
+}
+.prot{
+    float:left;
+    width:1170px;
+}
+.prot h1{
+    font-size: 50px;
+    text-align:center;  
+    font-family: 'Roboto', sans-serif;
+}
+.prot .work{
+     
+    float:left;
+
+}
+.prot .work img{
+    width:30%;
+    margin-left: 30px;
+    box-shadow: 2px 9px 38px 0px #CD1;
+    border:1px solid #212F3D;
+}
+.prot .work img:hover{
+  
+    box-shadow: 2px 2px 20px 0px #D0B;
+    
+}
+.infor{
+    float:left;
+   width:1170px;
+   margin-top:50px;
+
+}
+ 
+.form-margin{
+    margin-left:34px;
+
+}
+.for{
+    float:right;
+    width:50%;
+    border-left:1px solid #D7DBDD;
+}
+.email{
+    float:left;
+    margin-left:40px;
+    margin-right:40px;
+}
+.name{
+    float:left;
+}
+span{
+    font-family: 'Roboto', sans-serif;
+    
+}
+.text{
+    float:left;
+    
+}
+.ask a{
+    text-decoration:none;
+    color:black;
+    width: 135px;
+    height: 20px;
+    padding: 8px 5px 8px 7px;
+    background-color:#BDC3C7;
+    margin-top:10px;
+    margin-bottom:50px;
+    float:left;
+    border-radius:5px;
+     
+}
+.lekha{
+    float:left;
+    width:40%;
+}
+.lekha .size{
+    margin-top:73px;
+}
+.lekha .size h2{
+    margin-top:0px;
+    margin-bottom:0px;
+    color:#17202A;
+}
+.lekha .size .our{
+    margin-bottom:0px;
+    color:#A6ACAF;
+}
+.lekha .size .margin2{
+    margin-bottom:0px;
+    margin-top:0px;
+    color:#A6ACAF;
+
+}
