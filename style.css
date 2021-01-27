@@ -27,7 +27,7 @@
      border:2px solid red;
      display:block;
      float:left;
-     width: 420px;
+     width: 414px;
      padding:0px;
  }
  .menu ul li {
@@ -46,7 +46,7 @@
  .menu ul li a{
      text-decoration:none;
      color:#F7DC6F;
-     padding:5px 20px;
+     padding:5px 18px;
      
  }
  .menu ul li a:hover{
